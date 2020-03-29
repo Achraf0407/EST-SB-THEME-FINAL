@@ -1,4 +1,4 @@
-<h1 align="center" >   💻    Achraf Chemchaq   || Anass Taoussi  💻</h1>
+<h1 align="center" >     👨‍💻 Achraf Chemchaq   || Anass Taoussi  👨‍💻</h1>
 <p align="center"> 
   </p>
 
@@ -51,4 +51,7 @@
 
  <img   align="center" src="https://i.imgur.com/koEUFI5.png"/>
 <p>
-<b align="center" > ❤️  😀 This Project made with a lot of love and amusing so thank you mr  baddi for this   ❤️  😀 </b> </p>
+<h1 align="center" >  TEMPLATE MADE WITH ❤️ IN HOME  😀 </h1>
+<p align="center"> 
+ <h1 align="center" >  😀THANK YOU MR BADDI FOR THIS OPPORTUNITY😀 </h1>
+<p align="center"> 
